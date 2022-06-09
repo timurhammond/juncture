@@ -41,7 +41,7 @@ The work has been in the collection of the Mauritshuis in The Hague since 1902 a
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  Others are selectable using icons displayed in the top right margin of the paragraph.
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="15">
+<param ve-map center="Q36600" zoom="3">
 
 # Extras
 
